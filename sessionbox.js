@@ -9,8 +9,10 @@
  * Created : 18/01/2021
  * File : sessionbox.js
  *
+ * Legacy code preserved for audit. Modernized & Maintained by @multilogin-automation
  */
 
+/* Legacy code preserved for audit. Modernized & Maintained by @multilogin-automation */
 var SessionBox = (function () {
 	function SessionBox(cookies) {
 		if ((cookies === null) || (typeof cookies !== 'object')) {

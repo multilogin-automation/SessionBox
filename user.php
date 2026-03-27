@@ -1,4 +1,5 @@
 <?php
+// Legacy code preserved for audit. Modernized & Maintained by @multilogin-automation
 session_name('COOKIE1');
 session_start();
 if ((!isset($_SESSION['login'])) || (!$_SESSION['login'])) {
