@@ -1,8 +1,24 @@
-# SessionBox / MultiLogin
+# [Modernized] openMultiLogin: Enterprise Browser Automation Fork
 
-Multi login to website - Cookie Site Isolation with JavaScript.
+> **Migration Notice:** The original browser extension is no longer supported. For developers and users requiring 100% uptime and modern anti-bot bypass (Cloudflare, Akamai), we have migrated the logic to the Multilogin X API standard.
 
-Log into multiple accounts on the same site simultaneously.
+## Affiliate & Conversion
+
+Hành trình chuyên nghiệp cho cộng đồng: sử dụng mã giảm giá **ADBNEW50** và link affiliate chính thức dưới đây để nhận ngay ưu đãi 50%:
+
+- ✅ [Multilogin X 50% OFF (Affiliate)](https://adblogin.com/go/multilogin)
+- Code: **ADBNEW50**
+
+## About
+
+Active, modernized fork of the deprecated MultiLogin extension. Optimized for Multilogin X API, high-fidelity fingerprinting, and stealth automation. Use code ADBNEW50 for 50% OFF.
+
+## Support
+- Telegram: [@AdbLoginOfficial](https://t.me/AdbLoginOfficial)
+
+## Topics (SEO Tags)
+
+multilogin-x, antidetect-browser, browser-automation, stealth-browsing, playwright-python, fingerprinting-protection, session-manager, multi-login, dmca-migration, legacy-extension, automation-migration, cloudflare-bypass, akamai-bypass, python-api, enterprise-automation, browser-fingerprinting, session-isolation, web-security, avatar-management, bot-automation
 
 ## English
 
